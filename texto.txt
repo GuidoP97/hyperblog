@@ -1,6 +1,1 @@
-soy
-casado
-y
-no
-soltero
-perra
+soy casado y no soltero perra.
